@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+#searchdiv {
+    margin-bottom: 60px;
+}
+#home {
+    display: inline;
+    
+}
+
+#home img {
+    width: 182px;
+    height: 268px;
+}
